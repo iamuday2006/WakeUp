@@ -31,7 +31,7 @@ Or use the packaged installer (`installer\WakeUpSetup.exe`). See [Installation](
 2. Build the installer (requires [Inno Setup](https://jrsoftware.org/isinfo.php)):
 
    ```powershell
-   & "C:\Users\faithX\AppData\Local\Programs\Inno Setup 6\ISCC.exe" installer.iss
+   & "C:\Users\<user_name>\AppData\Local\Programs\Inno Setup 6\ISCC.exe" installer.iss
    ```
 
 3. Run `installer\WakeUpSetup.exe` and follow the wizard.

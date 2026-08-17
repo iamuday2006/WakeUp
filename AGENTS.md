@@ -13,7 +13,7 @@ PyInstaller and distributed with an Inno Setup installer.
 
 - Run from source: `uv run python main.py`
 - Build exe: `uv run pyinstaller --onefile --noconsole --name WakeUp --icon "assets\256x256.ico" --add-data "assets;assets" main.py`
-- Build installer: `& "C:\Users\faithX\AppData\Local\Programs\Inno Setup 6\ISCC.exe" installer.iss`
+- Build installer: `& "C:\Users\<user_name>\AppData\Local\Programs\Inno Setup 6\ISCC.exe" installer.iss`
 
 ## Conventions
 

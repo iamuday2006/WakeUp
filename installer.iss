@@ -1,8 +1,8 @@
 [Setup]
 AppId={{73E5B0A8-2C4E-4F2B-9A8E-3C6D5B1E2F40}}
 AppName=WakeUp
-AppVersion=1.0
-AppPublisher=faithX
+AppVersion=1.0.0
+AppPublisher=iamuday2006
 DefaultDirName={localappdata}\WakeUp
 DisableProgramGroupPage=yes
 OutputDir=installer
